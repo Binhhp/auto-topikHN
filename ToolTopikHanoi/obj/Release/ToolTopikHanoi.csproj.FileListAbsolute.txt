@@ -1,0 +1,94 @@
+C:\Users\Binhh\source\repos\ToolTopikHanoi\ToolTopikHanoi\bin\Release\ToolTopikHanoi.exe.config
+C:\Users\Binhh\source\repos\ToolTopikHanoi\ToolTopikHanoi\bin\Release\ToolTopikHanoi.exe
+C:\Users\Binhh\source\repos\ToolTopikHanoi\ToolTopikHanoi\bin\Release\ToolTopikHanoi.pdb
+C:\Users\Binhh\source\repos\ToolTopikHanoi\ToolTopikHanoi\bin\Release\AsyncChromeDriver.dll
+C:\Users\Binhh\source\repos\ToolTopikHanoi\ToolTopikHanoi\bin\Release\AsyncWebDriver.dll
+C:\Users\Binhh\source\repos\ToolTopikHanoi\ToolTopikHanoi\bin\Release\ChromeDevToolsClient.dll
+C:\Users\Binhh\source\repos\ToolTopikHanoi\ToolTopikHanoi\bin\Release\DataProvider.dll
+C:\Users\Binhh\source\repos\ToolTopikHanoi\ToolTopikHanoi\bin\Release\EntityFramework.dll
+C:\Users\Binhh\source\repos\ToolTopikHanoi\ToolTopikHanoi\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Binhh\source\repos\ToolTopikHanoi\ToolTopikHanoi\bin\Release\IAsyncWebBrowserClient.dll
+C:\Users\Binhh\source\repos\ToolTopikHanoi\ToolTopikHanoi\bin\Release\Newtonsoft.Json.dll
+C:\Users\Binhh\source\repos\ToolTopikHanoi\ToolTopikHanoi\bin\Release\SuperSocket.ClientEngine.dll
+C:\Users\Binhh\source\repos\ToolTopikHanoi\ToolTopikHanoi\bin\Release\System.Collections.Specialized.dll
+C:\Users\Binhh\source\repos\ToolTopikHanoi\ToolTopikHanoi\bin\Release\System.Net.NameResolution.dll
+C:\Users\Binhh\source\repos\ToolTopikHanoi\ToolTopikHanoi\bin\Release\System.Net.Security.dll
+C:\Users\Binhh\source\repos\ToolTopikHanoi\ToolTopikHanoi\bin\Release\System.Net.Sockets.dll
+C:\Users\Binhh\source\repos\ToolTopikHanoi\ToolTopikHanoi\bin\Release\System.Runtime.dll
+C:\Users\Binhh\source\repos\ToolTopikHanoi\ToolTopikHanoi\bin\Release\System.Runtime.Extensions.dll
+C:\Users\Binhh\source\repos\ToolTopikHanoi\ToolTopikHanoi\bin\Release\System.Runtime.InteropServices.dll
+C:\Users\Binhh\source\repos\ToolTopikHanoi\ToolTopikHanoi\bin\Release\System.Security.AccessControl.dll
+C:\Users\Binhh\source\repos\ToolTopikHanoi\ToolTopikHanoi\bin\Release\System.Security.Cryptography.Algorithms.dll
+C:\Users\Binhh\source\repos\ToolTopikHanoi\ToolTopikHanoi\bin\Release\System.Security.Cryptography.Encoding.dll
+C:\Users\Binhh\source\repos\ToolTopikHanoi\ToolTopikHanoi\bin\Release\System.Security.Cryptography.Primitives.dll
+C:\Users\Binhh\source\repos\ToolTopikHanoi\ToolTopikHanoi\bin\Release\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Binhh\source\repos\ToolTopikHanoi\ToolTopikHanoi\bin\Release\System.Security.Permissions.dll
+C:\Users\Binhh\source\repos\ToolTopikHanoi\ToolTopikHanoi\bin\Release\System.Security.Principal.Windows.dll
+C:\Users\Binhh\source\repos\ToolTopikHanoi\ToolTopikHanoi\bin\Release\WebSocket4Net.dll
+C:\Users\Binhh\source\repos\ToolTopikHanoi\ToolTopikHanoi\bin\Release\IIS.Common.dll
+C:\Users\Binhh\source\repos\ToolTopikHanoi\ToolTopikHanoi\bin\Release\DataProvider.pdb
+C:\Users\Binhh\source\repos\ToolTopikHanoi\ToolTopikHanoi\bin\Release\EntityFramework.xml
+C:\Users\Binhh\source\repos\ToolTopikHanoi\ToolTopikHanoi\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\Binhh\source\repos\ToolTopikHanoi\ToolTopikHanoi\bin\Release\Newtonsoft.Json.xml
+C:\Users\Binhh\source\repos\ToolTopikHanoi\ToolTopikHanoi\bin\Release\System.Security.AccessControl.xml
+C:\Users\Binhh\source\repos\ToolTopikHanoi\ToolTopikHanoi\bin\Release\System.Security.Permissions.xml
+C:\Users\Binhh\source\repos\ToolTopikHanoi\ToolTopikHanoi\bin\Release\System.Security.Principal.Windows.xml
+C:\Users\Binhh\source\repos\ToolTopikHanoi\ToolTopikHanoi\bin\Release\IIS.Common.pdb
+C:\Users\Binhh\source\repos\ToolTopikHanoi\ToolTopikHanoi\obj\Release\ToolTopikHanoi.csprojAssemblyReference.cache
+C:\Users\Binhh\source\repos\ToolTopikHanoi\ToolTopikHanoi\obj\Release\ToolTopikHanoi.DangKy.resources
+C:\Users\Binhh\source\repos\ToolTopikHanoi\ToolTopikHanoi\obj\Release\ToolTopikHanoi.Form1.resources
+C:\Users\Binhh\source\repos\ToolTopikHanoi\ToolTopikHanoi\obj\Release\ToolTopikHanoi.Properties.Resources.resources
+C:\Users\Binhh\source\repos\ToolTopikHanoi\ToolTopikHanoi\obj\Release\ToolTopikHanoi.csproj.GenerateResource.cache
+C:\Users\Binhh\source\repos\ToolTopikHanoi\ToolTopikHanoi\obj\Release\ToolTopikHanoi.csproj.CoreCompileInputs.cache
+C:\Users\Binhh\source\repos\ToolTopikHanoi\ToolTopikHanoi\obj\Release\ToolTopikHanoi.csproj.CopyComplete
+C:\Users\Binhh\source\repos\ToolTopikHanoi\ToolTopikHanoi\obj\Release\ToolTopikHanoi.exe
+C:\Users\Binhh\source\repos\ToolTopikHanoi\ToolTopikHanoi\obj\Release\ToolTopikHanoi.pdb
+C:\Users\Binhh\OneDrive\Máy tính\autotopik-master\ToolTopikHanoi\bin\Release\ToolTopikHanoi.exe.config
+C:\Users\Binhh\OneDrive\Máy tính\autotopik-master\ToolTopikHanoi\bin\Release\ToolTopikHanoi.exe
+C:\Users\Binhh\OneDrive\Máy tính\autotopik-master\ToolTopikHanoi\bin\Release\ToolTopikHanoi.pdb
+C:\Users\Binhh\OneDrive\Máy tính\autotopik-master\ToolTopikHanoi\bin\Release\AsyncChromeDriver.dll
+C:\Users\Binhh\OneDrive\Máy tính\autotopik-master\ToolTopikHanoi\bin\Release\AsyncWebDriver.dll
+C:\Users\Binhh\OneDrive\Máy tính\autotopik-master\ToolTopikHanoi\bin\Release\ChromeDevToolsClient.dll
+C:\Users\Binhh\OneDrive\Máy tính\autotopik-master\ToolTopikHanoi\bin\Release\DataProvider.dll
+C:\Users\Binhh\OneDrive\Máy tính\autotopik-master\ToolTopikHanoi\bin\Release\EntityFramework.dll
+C:\Users\Binhh\OneDrive\Máy tính\autotopik-master\ToolTopikHanoi\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Binhh\OneDrive\Máy tính\autotopik-master\ToolTopikHanoi\bin\Release\IAsyncWebBrowserClient.dll
+C:\Users\Binhh\OneDrive\Máy tính\autotopik-master\ToolTopikHanoi\bin\Release\Newtonsoft.Json.dll
+C:\Users\Binhh\OneDrive\Máy tính\autotopik-master\ToolTopikHanoi\bin\Release\SuperSocket.ClientEngine.dll
+C:\Users\Binhh\OneDrive\Máy tính\autotopik-master\ToolTopikHanoi\bin\Release\System.Collections.Specialized.dll
+C:\Users\Binhh\OneDrive\Máy tính\autotopik-master\ToolTopikHanoi\bin\Release\System.Net.NameResolution.dll
+C:\Users\Binhh\OneDrive\Máy tính\autotopik-master\ToolTopikHanoi\bin\Release\System.Net.Security.dll
+C:\Users\Binhh\OneDrive\Máy tính\autotopik-master\ToolTopikHanoi\bin\Release\System.Net.Sockets.dll
+C:\Users\Binhh\OneDrive\Máy tính\autotopik-master\ToolTopikHanoi\bin\Release\System.Runtime.dll
+C:\Users\Binhh\OneDrive\Máy tính\autotopik-master\ToolTopikHanoi\bin\Release\System.Runtime.Extensions.dll
+C:\Users\Binhh\OneDrive\Máy tính\autotopik-master\ToolTopikHanoi\bin\Release\System.Runtime.InteropServices.dll
+C:\Users\Binhh\OneDrive\Máy tính\autotopik-master\ToolTopikHanoi\bin\Release\System.Security.AccessControl.dll
+C:\Users\Binhh\OneDrive\Máy tính\autotopik-master\ToolTopikHanoi\bin\Release\System.Security.Cryptography.Algorithms.dll
+C:\Users\Binhh\OneDrive\Máy tính\autotopik-master\ToolTopikHanoi\bin\Release\System.Security.Cryptography.Encoding.dll
+C:\Users\Binhh\OneDrive\Máy tính\autotopik-master\ToolTopikHanoi\bin\Release\System.Security.Cryptography.Primitives.dll
+C:\Users\Binhh\OneDrive\Máy tính\autotopik-master\ToolTopikHanoi\bin\Release\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Binhh\OneDrive\Máy tính\autotopik-master\ToolTopikHanoi\bin\Release\System.Security.Permissions.dll
+C:\Users\Binhh\OneDrive\Máy tính\autotopik-master\ToolTopikHanoi\bin\Release\System.Security.Principal.Windows.dll
+C:\Users\Binhh\OneDrive\Máy tính\autotopik-master\ToolTopikHanoi\bin\Release\WebSocket4Net.dll
+C:\Users\Binhh\OneDrive\Máy tính\autotopik-master\ToolTopikHanoi\bin\Release\IIS.Common.dll
+C:\Users\Binhh\OneDrive\Máy tính\autotopik-master\ToolTopikHanoi\bin\Release\DataProvider.pdb
+C:\Users\Binhh\OneDrive\Máy tính\autotopik-master\ToolTopikHanoi\bin\Release\EntityFramework.xml
+C:\Users\Binhh\OneDrive\Máy tính\autotopik-master\ToolTopikHanoi\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\Binhh\OneDrive\Máy tính\autotopik-master\ToolTopikHanoi\bin\Release\Newtonsoft.Json.xml
+C:\Users\Binhh\OneDrive\Máy tính\autotopik-master\ToolTopikHanoi\bin\Release\System.Security.AccessControl.xml
+C:\Users\Binhh\OneDrive\Máy tính\autotopik-master\ToolTopikHanoi\bin\Release\System.Security.Permissions.xml
+C:\Users\Binhh\OneDrive\Máy tính\autotopik-master\ToolTopikHanoi\bin\Release\System.Security.Principal.Windows.xml
+C:\Users\Binhh\OneDrive\Máy tính\autotopik-master\ToolTopikHanoi\bin\Release\IIS.Common.pdb
+C:\Users\Binhh\OneDrive\Máy tính\autotopik-master\ToolTopikHanoi\obj\Release\ToolTopikHanoi.csprojAssemblyReference.cache
+C:\Users\Binhh\OneDrive\Máy tính\autotopik-master\ToolTopikHanoi\obj\Release\ToolTopikHanoi.DangKy.resources
+C:\Users\Binhh\OneDrive\Máy tính\autotopik-master\ToolTopikHanoi\obj\Release\ToolTopikHanoi.Form1.resources
+C:\Users\Binhh\OneDrive\Máy tính\autotopik-master\ToolTopikHanoi\obj\Release\ToolTopikHanoi.Properties.Resources.resources
+C:\Users\Binhh\OneDrive\Máy tính\autotopik-master\ToolTopikHanoi\obj\Release\ToolTopikHanoi.csproj.GenerateResource.cache
+C:\Users\Binhh\OneDrive\Máy tính\autotopik-master\ToolTopikHanoi\obj\Release\ToolTopikHanoi.csproj.CoreCompileInputs.cache
+C:\Users\Binhh\OneDrive\Máy tính\autotopik-master\ToolTopikHanoi\obj\Release\ToolTopikHanoi.csproj.CopyComplete
+C:\Users\Binhh\OneDrive\Máy tính\autotopik-master\ToolTopikHanoi\obj\Release\ToolTopikHanoi.exe
+C:\Users\Binhh\OneDrive\Máy tính\autotopik-master\ToolTopikHanoi\obj\Release\ToolTopikHanoi.pdb
+C:\Users\Binhh\OneDrive\Máy tính\autotopik-master\ToolTopikHanoi\bin\Release\AutoItX3.Assembly.dll
+C:\Users\Binhh\OneDrive\Máy tính\autotopik-master\ToolTopikHanoi\bin\Release\AutoItX3.Assembly.xml
+C:\Users\Binhh\OneDrive\Máy tính\autotopik-master\ToolTopikHanoi\obj\Release\Interop.AutoItX3Lib.dll
+C:\Users\Binhh\OneDrive\Máy tính\autotopik-master\ToolTopikHanoi\obj\Release\ToolTopikHanoi.csproj.ResolveComReference.cache

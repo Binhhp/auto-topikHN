@@ -1,0 +1,18 @@
+C:\Users\Binhh\source\repos\ToolTopikHanoi\DataProvider\obj\Debug\IIS.Migrations.csprojAssemblyReference.cache
+C:\Users\Binhh\source\repos\ToolTopikHanoi\DataProvider\obj\Debug\IIS.Migrations.csproj.CoreCompileInputs.cache
+C:\Users\Binhh\source\repos\ToolTopikHanoi\DataProvider\bin\Debug\DataProvider.dll
+C:\Users\Binhh\source\repos\ToolTopikHanoi\DataProvider\bin\Debug\DataProvider.pdb
+C:\Users\Binhh\source\repos\ToolTopikHanoi\DataProvider\bin\Debug\IIS.Common.dll
+C:\Users\Binhh\source\repos\ToolTopikHanoi\DataProvider\bin\Debug\IIS.Common.pdb
+C:\Users\Binhh\source\repos\ToolTopikHanoi\DataProvider\obj\Debug\IIS.Migrations.csproj.CopyComplete
+C:\Users\Binhh\source\repos\ToolTopikHanoi\DataProvider\obj\Debug\DataProvider.dll
+C:\Users\Binhh\source\repos\ToolTopikHanoi\DataProvider\obj\Debug\DataProvider.pdb
+C:\Users\Binhh\OneDrive\Máy tính\autotopik-master\DataProvider\bin\Debug\DataProvider.dll
+C:\Users\Binhh\OneDrive\Máy tính\autotopik-master\DataProvider\bin\Debug\DataProvider.pdb
+C:\Users\Binhh\OneDrive\Máy tính\autotopik-master\DataProvider\bin\Debug\IIS.Common.dll
+C:\Users\Binhh\OneDrive\Máy tính\autotopik-master\DataProvider\bin\Debug\IIS.Common.pdb
+C:\Users\Binhh\OneDrive\Máy tính\autotopik-master\DataProvider\obj\Debug\IIS.Migrations.csprojAssemblyReference.cache
+C:\Users\Binhh\OneDrive\Máy tính\autotopik-master\DataProvider\obj\Debug\IIS.Migrations.csproj.CoreCompileInputs.cache
+C:\Users\Binhh\OneDrive\Máy tính\autotopik-master\DataProvider\obj\Debug\IIS.Migrations.csproj.CopyComplete
+C:\Users\Binhh\OneDrive\Máy tính\autotopik-master\DataProvider\obj\Debug\DataProvider.dll
+C:\Users\Binhh\OneDrive\Máy tính\autotopik-master\DataProvider\obj\Debug\DataProvider.pdb

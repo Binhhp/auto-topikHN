@@ -1,0 +1,30 @@
+C:\Users\Binhh\source\repos\ToolTopikHanoi\IIS.Common\bin\Release\IIS.Common.dll
+C:\Users\Binhh\source\repos\ToolTopikHanoi\IIS.Common\bin\Release\IIS.Common.pdb
+C:\Users\Binhh\source\repos\ToolTopikHanoi\IIS.Common\bin\Release\System.Configuration.ConfigurationManager.dll
+C:\Users\Binhh\source\repos\ToolTopikHanoi\IIS.Common\bin\Release\System.Security.AccessControl.dll
+C:\Users\Binhh\source\repos\ToolTopikHanoi\IIS.Common\bin\Release\System.Security.Permissions.dll
+C:\Users\Binhh\source\repos\ToolTopikHanoi\IIS.Common\bin\Release\System.Security.Principal.Windows.dll
+C:\Users\Binhh\source\repos\ToolTopikHanoi\IIS.Common\bin\Release\System.Configuration.ConfigurationManager.xml
+C:\Users\Binhh\source\repos\ToolTopikHanoi\IIS.Common\bin\Release\System.Security.AccessControl.xml
+C:\Users\Binhh\source\repos\ToolTopikHanoi\IIS.Common\bin\Release\System.Security.Permissions.xml
+C:\Users\Binhh\source\repos\ToolTopikHanoi\IIS.Common\bin\Release\System.Security.Principal.Windows.xml
+C:\Users\Binhh\source\repos\ToolTopikHanoi\IIS.Common\obj\Release\IIS.Common.csprojAssemblyReference.cache
+C:\Users\Binhh\source\repos\ToolTopikHanoi\IIS.Common\obj\Release\IIS.Common.csproj.CoreCompileInputs.cache
+C:\Users\Binhh\source\repos\ToolTopikHanoi\IIS.Common\obj\Release\IIS.Common.csproj.CopyComplete
+C:\Users\Binhh\source\repos\ToolTopikHanoi\IIS.Common\obj\Release\IIS.Common.dll
+C:\Users\Binhh\source\repos\ToolTopikHanoi\IIS.Common\obj\Release\IIS.Common.pdb
+C:\Users\Binhh\OneDrive\Máy tính\autotopik-master\IIS.Common\bin\Release\IIS.Common.dll
+C:\Users\Binhh\OneDrive\Máy tính\autotopik-master\IIS.Common\bin\Release\IIS.Common.pdb
+C:\Users\Binhh\OneDrive\Máy tính\autotopik-master\IIS.Common\bin\Release\System.Configuration.ConfigurationManager.dll
+C:\Users\Binhh\OneDrive\Máy tính\autotopik-master\IIS.Common\bin\Release\System.Security.AccessControl.dll
+C:\Users\Binhh\OneDrive\Máy tính\autotopik-master\IIS.Common\bin\Release\System.Security.Permissions.dll
+C:\Users\Binhh\OneDrive\Máy tính\autotopik-master\IIS.Common\bin\Release\System.Security.Principal.Windows.dll
+C:\Users\Binhh\OneDrive\Máy tính\autotopik-master\IIS.Common\bin\Release\System.Configuration.ConfigurationManager.xml
+C:\Users\Binhh\OneDrive\Máy tính\autotopik-master\IIS.Common\bin\Release\System.Security.AccessControl.xml
+C:\Users\Binhh\OneDrive\Máy tính\autotopik-master\IIS.Common\bin\Release\System.Security.Permissions.xml
+C:\Users\Binhh\OneDrive\Máy tính\autotopik-master\IIS.Common\bin\Release\System.Security.Principal.Windows.xml
+C:\Users\Binhh\OneDrive\Máy tính\autotopik-master\IIS.Common\obj\Release\IIS.Common.csprojAssemblyReference.cache
+C:\Users\Binhh\OneDrive\Máy tính\autotopik-master\IIS.Common\obj\Release\IIS.Common.csproj.CoreCompileInputs.cache
+C:\Users\Binhh\OneDrive\Máy tính\autotopik-master\IIS.Common\obj\Release\IIS.Common.csproj.CopyComplete
+C:\Users\Binhh\OneDrive\Máy tính\autotopik-master\IIS.Common\obj\Release\IIS.Common.dll
+C:\Users\Binhh\OneDrive\Máy tính\autotopik-master\IIS.Common\obj\Release\IIS.Common.pdb
