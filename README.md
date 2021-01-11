@@ -5,5 +5,4 @@ Auto topikhn.com is software that allows automatic registration of Korean langua
 <li>AsyncSelenium</li>
 <li>AutoItX3</li>
 <li>Dependency Injection</li>
-<li>Setup Server</li>
 </ul>
